@@ -1,0 +1,22 @@
+{
+"PREFIX": "?",
+"USER_ID": "323611068503031810",
+"cleanLogsEnabled": false,
+"cleanFiles": true,
+"autoInject": true,
+"autoLaunch": false,
+"embedColor": "#FF0000",
+"clientId": "0",
+"instanceNumber": "2",
+"placeId": "10851599",
+"cleanFilesDelay": 120000,
+"launchDelay": 10000,
+"injectDelay": 5000,
+"injectTimeout": 2500,
+"aduritePricing": true,
+"customPricing": "3",
+"processesRows": "2",
+"usdStatus": true,
+"ctpb": "mind",
+"robloxIds": []
+}
